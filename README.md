@@ -95,39 +95,52 @@ and
 ### remote Circuit
 [Circuit](/circuit/remote/)
 
-# BOM (bill of material) 🛒
+
 ### Car
 ---
-|**Item**|Number|Link|
-|--------|-------------|---|
-|5mm 940nm IR Emitter Transmitter|2|https://amzn.in/d/03gj3whx|
-|MPU6050 IMU|1|https://amzn.in/d/0gS9H64g|
-|PN532 NFC RFID Module|1|https://robokits.co.in/wireless-solutions/rfid/pn532-nfc-rfid-module-v3-kit-reader-writer-breakout-board?srsltid=AfmBOooBJS2DFnuWBIGC9mB0mO7za8Ql3MFEb6kDh34OEwg5jFQdKodmrjA|
-|ESP32S3-Sense|1|https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html?srsltid=AfmBOooVpv6VY6S8HZ8RSQHJR3o-OCpF9PW-xqElodKlTDqwqZxqCzhl|
-|ESP32 WiFi Bluetooth |1|https://amzn.in/d/0fkaqaUV|
-|6V N20 600 RPM Motor|1|https://robocraze.com/products/6v-n20-600-rpm-miniature-gear-motor|
-|3.7v 2500mah 18650 Li-Ion Battery|2|https://robocraze.com/products/3-7v-2500mah-18650-li-ion-battery|
-|TP4056 Battery Charger|1|https://robocraze.com/products/tp4056-battery-charger-c-type-module-with-protection-1|
-|LM2596 DC-DC Buck Converter|1|https://robocraze.com/products/lm2596-dc-dc-buck-module|
-|SG90 Micro Servo Motor|1|https://robocraze.com/products/sg90-micro-servo-motor|
-|DRV8833 2|1|https://robocraze.com/products/drv8833-2-channel-dc-motor-driver|
-|TSOP38238 IR Receiver Diode|2|https://quartzcomponents.com/products/tsop38238-ir-receiver-diode-38khz|
-|m3x4mm heat set inserts|8||
-|M3 x 6mm screw|8||
+|**Item**|Number|Approx. Price|Link|
+|--------|-------------|-------------|---|
+|5mm 940nm IR Emitter Transmitter|2|₹140|https://amzn.in/d/03gj3whx|
+|MPU6050 IMU|1|₹174|https://amzn.in/d/0gS9H64g|
+|PN532 NFC RFID Module|1|₹425|https://robokits.co.in/wireless-solutions/rfid/pn532-nfc-rfid-module-v3-kit-reader-writer-breakout-board?srsltid=AfmBOooBJS2DFnuWBIGC9mB0mO7za8Ql3MFEb6kDh34OEwg5jFQdKodmrjA|
+|ESP32S3-Sense|1|₹1800|https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html?srsltid=AfmBOooVpv6VY6S8HZ8RSQHJR3o-OCpF9PW-xqElodKlTDqwqZxqCzhl|
+|ESP32 WiFi Bluetooth|1|₹299|https://amzn.in/d/0fkaqaUV|
+|6V N20 600 RPM Motor|1|₹149|https://robocraze.com/products/6v-n20-600-rpm-miniature-gear-motor|
+|3.7v 2500mah 18650 Li-Ion Battery|2|₹500|https://robocraze.com/products/3-7v-2500mah-18650-li-ion-battery|
+|TP4056 Battery Charger|1|₹49|https://robocraze.com/products/tp4056-battery-charger-c-type-module-with-protection-1|
+|LM2596 DC-DC Buck Converter|1|₹79|https://robocraze.com/products/lm2596-dc-dc-buck-module|
+|SG90 Micro Servo Motor|1|₹99|https://robocraze.com/products/sg90-micro-servo-motor|
+|DRV8833 2|1|₹99|https://robocraze.com/products/drv8833-2-channel-dc-motor-driver|
+|TSOP38238 IR Receiver Diode|2|₹50|https://quartzcomponents.com/products/tsop38238-ir-receiver-diode-38khz|
+|m3x4mm heat set inserts|8|₹50||
+|M3 x 6mm screw|8|₹50||
+
+#### Approximate Car Cost
+**₹3963**
 
 ### Remote
 ---
-|**Item**|Number|Link|
-|--------|-----|---|
-|ESP32 WiFi Bluetooth|1|https://amzn.in/d/03HUoLg3|
-|Tactile momentary push button|12|https://amzn.in/d/093r9Vyk|
-|3.7V 1500mAH LiPo Rechargeable Battery Model |1|https://robocraze.com/products/3-7v-1500mah-lipo-rechargeable-battery-model-uk-523450p?_pos=1&_sid=d113ab62b&_ss=r|
-|TP4056 Battery Charger |1|https://robocraze.com/products/tp4056-battery-charger-c-type-module-with-protection-1|
-|3.3V Small Piezo Buzzer|1|https://robocraze.com/products/3-volts-buzzer-small|
-|5mm Common Anode RGB LED 4Pin Through Hole White Diffused LED|1|https://robocraze.com/products/5mm-common-anode-rgb-led-4pin-pack-of-10|
-|2.8 Inch TFT LCD Display|1|https://robocraze.com/products/smartelex-2-8-inch-tft-lcd-display-240x320-color-lcd-screen-for-diy-electronics|
-|m3x4mm heat set inserts|5||
-|M3 x 6mm screw|5||
+|**Item**|Number|Approx. Price|Link|
+|--------|-----|-------------|---|
+|ESP32 WiFi Bluetooth|1|₹299|https://amzn.in/d/03HUoLg3|
+|Tactile momentary push button|12|₹36|https://amzn.in/d/093r9Vyk|
+|3.7V 1500mAH LiPo Rechargeable Battery Model|1|₹350|https://robocraze.com/products/3-7v-1500mah-lipo-rechargeable-battery-model-uk-523450p?_pos=1&_sid=d113ab62b&_ss=r|
+|TP4056 Battery Charger|1|₹49|https://robocraze.com/products/tp4056-battery-charger-c-type-module-with-protection-1|
+|3.3V Small Piezo Buzzer|1|₹30|https://robocraze.com/products/3-volts-buzzer-small|
+|5mm Common Anode RGB LED 4Pin Through Hole White Diffused LED|1|₹15|https://robocraze.com/products/5mm-common-anode-rgb-led-4pin-pack-of-10|
+|2.8 Inch TFT LCD Display|1|₹780|https://robocraze.com/products/smartelex-2-8-inch-tft-lcd-display-240x320-color-lcd-screen-for-diy-electronics|
+|m3x4mm heat set inserts|5|₹30||
+|M3 x 6mm screw|5|₹30||
+
+#### Approximate Remote Cost
+**₹1619**
+
+### Total Approximate Cost
+---
+|Part|Cost|
+|-----|-----|
+|Car|₹3963|
+|Remote|₹1619|
 
 # Future Upgrade ⏫
 * Leader Board 
