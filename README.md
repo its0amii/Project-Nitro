@@ -8,7 +8,7 @@ Have you ever wondered having a **RC FVP Racing Car** with game effects such as 
 * Health
 * Drift ` Bad effects and more`
 
-well i have made with the help of **NFC TAGS**, How it work is simple when each car have a NFC reader under, and when it pass over a NFC tage it will detect the code and look for what power or bad effect it is and then i will pull that effect and we can use any time we want.
+well i have made with the help of **NFC TAGS**, How it work is simple when each car have a NFC reader under, and when it pass over a NFC tage it will detect the code and look for what power or bad effect it is and then i will pull that effect and we can use any time we want.And beat the oppont and win with the supwer power and using our own strategy to win the game 
 
 # Photos of car and remote 📸
 
@@ -57,7 +57,20 @@ and when it connect you will have two mode
     and play and win the game.
 
 ```
+# Game Effects ⚡
+### Good power
+- Boost `Speed boost to move faster`
+- Health ` get more health `
+- Sheld `protection from enemy bullets`
+- Buttels` to shoot`
+### Bad Effects
+- Drift` the car get drift randomly`
+- Random controll `  the controll get switch randomly forward will be backward`
+- Slowness`car goes slowly`
+- Damagae ` low health`
 
+### Bonues
+- all bad effect can be  clear by going to your own pit lane.
 # How It Work. ⚙️
 
 
@@ -95,6 +108,7 @@ and
 ### remote Circuit
 [Circuit](/circuit/remote/)
 
+# BOM 🛒
 
 ### Car
 ---
@@ -148,3 +162,4 @@ and
 * challacnge etc
 
 Thats it for now.
+> **NOTE:** you need to place a black plastic thin sheat or ssomething on the front window where the camera is placed
