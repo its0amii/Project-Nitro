@@ -129,8 +129,8 @@ and
 |SG90 Micro Servo Motor|1|₹99|https://robocraze.com/products/sg90-micro-servo-motor|
 |DRV8833 2|1|₹99|https://robocraze.com/products/drv8833-2-channel-dc-motor-driver|
 |TSOP38238 IR Receiver Diode|2|₹50|https://quartzcomponents.com/products/tsop38238-ir-receiver-diode-38khz|
-|m3x4mm heat set inserts|8|₹50||
-|M3 x 6mm screw|8|₹50||
+|m3x4mm heat set inserts|20|||
+|M3 x 6mm screw|20|||
 
 #### Approximate Car Cost
 **₹3963**
