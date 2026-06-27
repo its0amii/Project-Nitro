@@ -43,8 +43,10 @@ well i have made with the help of **NFC TAGS**, How it work is simple when each 
 # Motivation
 >I have always wondered to play **RC car** like in games with boost,power, win, health etc.. bcz that all make more fun to the world and playing with friends make it more fun so i build this car, and it will give you a game vibe with rc fvp car irl, bring more fun and joy to the world
 
-# How to Play 🎮
+# How to Play/setup 🎮
 ```
+First you need to flash the firmware using arduino ide to each esp32 and then you are ready to play first you need to pair the car to its remote
+
 When you turn one the remote and car it will connect (if its first time you may need to pair it)
 and you will get a web in phone or laptop for fpv
 and when it connect you will have two mode 
