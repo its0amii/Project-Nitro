@@ -133,8 +133,8 @@ and
 |SG90 Micro Servo Motor|1|₹99|https://robocraze.com/products/sg90-micro-servo-motor|
 |DRV8833 2|1|₹99|https://robocraze.com/products/drv8833-2-channel-dc-motor-driver|
 |TSOP38238 IR Receiver Diode|2|₹50|https://quartzcomponents.com/products/tsop38238-ir-receiver-diode-38khz|
-|m3x4mm heat set inserts|20|||
-|M3 x 6mm screw|20|||
+|m3x4mm heat set inserts|20|80|https://robu.in/product/m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/|
+|M3 x 6mm screw|20|60|roboticsdna.in/product/m3-x-6mm-bolt-ss-304-csk-countersunk-philips-head-25-pcs/|
 
 #### Approximate Car Cost
 **₹3963**
@@ -150,9 +150,8 @@ and
 |3.3V Small Piezo Buzzer|1|₹30|https://robocraze.com/products/3-volts-buzzer-small|
 |5mm Common Anode RGB LED 4Pin Through Hole White Diffused LED|1|₹15|https://robocraze.com/products/5mm-common-anode-rgb-led-4pin-pack-of-10|
 |2.8 Inch TFT LCD Display|1|₹780|https://robocraze.com/products/smartelex-2-8-inch-tft-lcd-display-240x320-color-lcd-screen-for-diy-electronics|
-|m3x4mm heat set inserts|5|₹30||
-|M3 x 6mm screw|12|₹30||
-
+|m3x4mm heat set inserts|5|₹80|https://robu.in/product/m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/|
+|M3 x 6mm screw|12|₹60|roboticsdna.in/product/m3-x-6mm-bolt-ss-304-csk-countersunk-philips-head-25-pcs/
 #### Approximate Remote Cost
 **₹1619**
 
