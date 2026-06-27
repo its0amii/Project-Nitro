@@ -9,7 +9,8 @@ Have you ever wondered having a **RC FVP Racing Car** with game effects such as 
 * Drift ` Bad effects and more`
 
 well i have made with the help of **NFC TAGS**, How it work is simple when each car have a NFC reader under, and when it pass over a NFC tage it will detect the code and look for what power or bad effect it is and then i will pull that effect and we can use any time we want.And beat the oppont and win with the supwer power and using our own strategy to win the game 
-
+# Zine
+[zine](/doc/zine.pdf)
 # Photos of car and remote 📸
 
 ### Car pics
@@ -111,6 +112,9 @@ and
 ### remote Circuit
 [Circuit](/circuit/remote/)
 
+## BOM
+[BOM](/doc/BOM.csv.csv)
+
 # BOM 🛒
 
 ### Car
@@ -124,7 +128,7 @@ and
 |ESP32 WiFi Bluetooth|1|₹299|https://amzn.in/d/0fkaqaUV|
 |6V N20 600 RPM Motor|1|₹149|https://robocraze.com/products/6v-n20-600-rpm-miniature-gear-motor|
 |3.7v 2500mah 18650 Li-Ion Battery|2|₹500|https://robocraze.com/products/3-7v-2500mah-18650-li-ion-battery|
-|TP4056 Battery Charger|1|₹49|https://robocraze.com/products/tp4056-battery-charger-c-type-module-with-protection-1|
+|TP4056 Type-C Mini|1|₹49|https://robocraze.com/products/tp4056-battery-charger-c-type-module-with-protection-1|
 |LM2596 DC-DC Buck Converter|1|₹79|https://robocraze.com/products/lm2596-dc-dc-buck-module|
 |SG90 Micro Servo Motor|1|₹99|https://robocraze.com/products/sg90-micro-servo-motor|
 |DRV8833 2|1|₹99|https://robocraze.com/products/drv8833-2-channel-dc-motor-driver|
@@ -142,12 +146,12 @@ and
 |ESP32 WiFi Bluetooth|1|₹299|https://amzn.in/d/03HUoLg3|
 |Tactile momentary push button|12|₹36|https://amzn.in/d/093r9Vyk|
 |3.7V 1500mAH LiPo Rechargeable Battery Model|1|₹350|https://robocraze.com/products/3-7v-1500mah-lipo-rechargeable-battery-model-uk-523450p?_pos=1&_sid=d113ab62b&_ss=r|
-|TP4056 Battery Charger|1|₹49|https://robocraze.com/products/tp4056-battery-charger-c-type-module-with-protection-1|
+|TP4056 Type-C Mini|1|₹49|https://robocraze.com/products/tp4056-battery-charger-c-type-module-with-protection-1|
 |3.3V Small Piezo Buzzer|1|₹30|https://robocraze.com/products/3-volts-buzzer-small|
 |5mm Common Anode RGB LED 4Pin Through Hole White Diffused LED|1|₹15|https://robocraze.com/products/5mm-common-anode-rgb-led-4pin-pack-of-10|
 |2.8 Inch TFT LCD Display|1|₹780|https://robocraze.com/products/smartelex-2-8-inch-tft-lcd-display-240x320-color-lcd-screen-for-diy-electronics|
 |m3x4mm heat set inserts|5|₹30||
-|M3 x 6mm screw|5|₹30||
+|M3 x 6mm screw|12|₹30||
 
 #### Approximate Remote Cost
 **₹1619**
@@ -165,4 +169,4 @@ and
 * challacnge etc
 
 Thats it for now.
-> **NOTE:** you need to place a black plastic thin sheat or ssomething on the front window where the camera is placed
+> **NOTE:** you need to place a black transperent plastic thin sheat or ssomething on the front window where the camera is placed and in the remote for the switch you can either use this ![pcb](/image/image.png) or you can custom print a pcb board everything on car and remote is either snap fit or screwable and only the led , ir and batter need glue-gun/tap
