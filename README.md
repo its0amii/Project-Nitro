@@ -157,7 +157,7 @@ and
 |M3 x 6mm screw|20|60|roboticsdna.in/product/m3-x-6mm-bolt-ss-304-csk-countersunk-philips-head-25-pcs/|
 
 #### Approximate Car Cost
-**₹3963**
+**₹4000**
 
 ### Remote
 ---
@@ -173,14 +173,14 @@ and
 |m3x4mm heat set inserts|5|₹80|https://robu.in/product/m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/|
 |M3 x 6mm screw|12|₹60|roboticsdna.in/product/m3-x-6mm-bolt-ss-304-csk-countersunk-philips-head-25-pcs/
 #### Approximate Remote Cost
-**₹1619**
+**₹1700**
 
 ### Total Approximate Cost
 ---
 |Part|Cost|
 |-----|-----|
-|Car|₹3963|
-|Remote|₹1619|
+|Car|₹4000|
+|Remote|₹1700|
 
 # Future Upgrade ⏫
 ---
