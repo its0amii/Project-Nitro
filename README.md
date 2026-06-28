@@ -1,15 +1,16 @@
 # Project-Nitro 🏎️💨
-### FVP RC Racing car with game effects
-
+### FPV RC Racing Car with game effects
 ---
-Have you ever wondered having a **RC FVP Racing Car** with game effects such as :
+
+Have you ever wondered about having a **FPV RC Racing Car** with game effects such as :
 * Boost
 * Gun
 * Health
-* Drift ` Bad effects and more`
+* Drift (Bad effects and more)
 
-well i have made with the help of **NFC TAGS**, How it work is simple when each car have a NFC reader under, and when it pass over a NFC tage it will detect the code and look for what power or bad effect it is and then i will pull that effect and we can use any time we want.And beat the oppont and win with the supwer power and using our own strategy to win the game 
+well, I have made this with the help of **NFC TAGS**. How it works is simple: when each car has an NFC reader underneath, and when it passes over a NFC tag, it will detect the code and look for what power or bad effect it is. Then I can pull that effect whenever we want. Beat your opponent and win with super powers using our own strategy to win the game!
 # Zine
+---
 [zine](/doc/zine.pdf)
 # Photos of car and remote 📸
 
@@ -23,6 +24,7 @@ well i have made with the help of **NFC TAGS**, How it work is simple when each 
 
 
 ### Remote
+
 ---
 ![remote](/image/R1.png)
 
@@ -30,7 +32,11 @@ well i have made with the help of **NFC TAGS**, How it work is simple when each 
 
 ![remote2](/image/R3.png)
 
+
+
+
 # Circuit Diagram
+
 
 ### Car
 ---
@@ -40,55 +46,67 @@ well i have made with the help of **NFC TAGS**, How it work is simple when each 
 ---
 ![remote pcb](/image/RC.png)
 
+![PCB](/image/pcb-1.png)
+
+![PCB2](/image/pcb-2.png)
+
 # Motivation
+---
 >I have always wondered to play **RC car** like in games with boost,power, win, health etc.. bcz that all make more fun to the world and playing with friends make it more fun so i build this car, and it will give you a game vibe with rc fvp car irl, bring more fun and joy to the world
+# How to Build 🛠️
+---
+> **Car** : after 3d printing you need check the tolerance of each part and sand it and smooth it well for better look and placement then solder everything with wires, place each component to its place as in the `.step` files and glue the IR receiver and transmitter and tape or glue the batteries in its place and then place esp32 on the esp tray and screw it well and then mount it to the car body as shown 
+
+> **Remote** : after 3d printing you need check the tolerance of each part and sand it and smooth it well for better look and placement then solder everything with wires and place the battery first and then esp32 and solder the switch to pcb and connect the gpios and don't forget to place the lcd screen holders to screw for better holding and slid the down part and screw it also and paint everything
 
 # How to Play/setup 🎮
-```
-First you need to flash the firmware using arduino ide to each esp32 and then you are ready to play first you need to pair the car to its remote
 
-When you turn one the remote and car it will connect (if its first time you may need to pair it)
+---
+```
+When you turn on the remote and car it will connect (if its first time you may need to pair it)
 and you will get a web in phone or laptop for fpv
-and when it connect you will have two mode 
+and when it connects you will have two modes 
 * Free ride
-    you can drive it as normal RC car with out any things 
+    you can drive it as normal RC car without any things 
 * Race mode
-    In this mode you need to an opponet to play with you one of you will host the game 
-    and that persons car will be the controller of the game also.
+    In this mode you need an opponent to play with, one of you will host the game 
+    and that person's car will be the controller of the game also.
     and the remote will look for players.
-    and when find a player user need to flip the car and re-register all nfc tag again.
+    and when find a player user needs to flip the car and re-register all nfc tags again.
     accept the win gate tag and the pit lane.
-    and place everything in place as you want every where you can make your own
-    track with anythiung you have 
+    and place everything in place as you want, everywhere you can make your own
+    track with anything you have 
     and play and win the game.
 
 ```
 # Game Effects ⚡
+---
 ### Good power
 - Boost `Speed boost to move faster`
 - Health ` get more health `
-- Sheld `protection from enemy bullets`
-- Buttels` to shoot`
+- Shield `protection from enemy bullets`
+- Bullets` to shoot`
 ### Bad Effects
 - Drift` the car get drift randomly`
 - Random controll `  the controll get switch randomly forward will be backward`
 - Slowness`car goes slowly`
-- Damagae ` low health`
+- Damage ` low health`
 
-### Bonues
-- all bad effect can be  clear by going to your own pit lane.
-# How It Work. ⚙️
+### Bonus
+- all bad effects can be cleared by going to your own pit lane.
+# How It Works ⚙️
+---
 
 
-this all work with by ESP-NOW protocol 
-the one who host the car will be the one  maintain the rules and everything 
+this all works with ESP-NOW protocol 
+the one who hosts the car will be the one maintaining the rules and everything 
 and 
 
-`car <->remote`
+`car <-> remote`
 
-`car(host) <-> car(clint)`
+`car(host) <-> car(client)`
 
-`camera -> wifi web -> phone,laptop...`
+`camera -> wifi web -> phone, laptop...`
 
 # Folder 📁
 ## Car
@@ -147,7 +165,7 @@ and
 |--------|-----|-------------|---|
 |ESP32 WiFi Bluetooth|1|₹299|https://amzn.in/d/03HUoLg3|
 |Tactile momentary push button|12|₹36|https://amzn.in/d/093r9Vyk|
-|3.7V 1500mAH LiPo Rechargeable Battery Model|1|₹350|https://robocraze.com/products/3-7v-1500mah-lipo-rechargeable-battery-model-uk-523450p?_pos=1&_sid=d113ab62b&_ss=r|
+|3.7V 1500mAh LiPo Rechargeable Battery Model|1|₹350|https://robocraze.com/products/3-7v-1500mah-lipo-rechargeable-battery-model-uk-523450p?_pos=1&_sid=d113ab62b&_ss=r|
 |TP4056 Type-C Mini|1|₹49|https://robocraze.com/products/tp4056-battery-charger-c-type-module-with-protection-1|
 |3.3V Small Piezo Buzzer|1|₹30|https://robocraze.com/products/3-volts-buzzer-small|
 |5mm Common Anode RGB LED 4Pin Through Hole White Diffused LED|1|₹15|https://robocraze.com/products/5mm-common-anode-rgb-led-4pin-pack-of-10|
@@ -165,9 +183,10 @@ and
 |Remote|₹1619|
 
 # Future Upgrade ⏫
+---
 * Leader Board 
 * Anti-Cheat
-* challacnge etc
+* challenge etc
 
 Thats it for now.
-> **NOTE:** you need to place a black transperent plastic thin sheat or ssomething on the front window where the camera is placed and in the remote for the switch you can either use this ![pcb](/image/image.png) or you can custom print a pcb board everything on car and remote is either snap fit or screwable and only the led , ir and batter need glue-gun/tap
+> **NOTE:** you need to place a black transparent plastic thin sheet or something on the front window where the camera is placed and in the remote for the switch you can either use this ![pcb](/image/image.png) or you can custom print a pcb board everything on car and remote is either snap fit or screwable and only the led , ir and batter need glue-gun/tap
