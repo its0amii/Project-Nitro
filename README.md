@@ -137,7 +137,7 @@ This all works with ESP-NOW protocol. The host's car maintains the rules and eve
 |3.3V Small Piezo Buzzer|1|₹30|https://robocraze.com/products/3-volts-buzzer-small|
 |5mm Common Anode RGB LED 4Pin Through Hole White Diffused LED|1|₹15|[robocraze](https://robocraze.com/products/5mm-common-anode-rgb-led-4pin-pack-of-10)|
 |2.8 Inch TFT LCD Display|1|₹780|[robocraze](https://robocraze.com/products/smartelex-2-8-inch-tft-lcd-display-240x320-color-lcd-screen-for-diy-electronics)|
-|m3x4mm heat set inserts|5|₹80|[Rubu](https://robu.in/product)|m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/|
+|m3x4mm heat set inserts|12|₹80|[Rubu](https://robu.in/product)|m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/|
 |M3 x 6mm screw|12|₹60|[RoboticsDNA](roboticsdna.in/product/m3-x-6mm-bolt-ss-304-csk-countersunk-philips-head-25-pcs/)
 #### Approximate Remote Cost
 **₹1700**
