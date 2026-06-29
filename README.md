@@ -12,7 +12,7 @@ Well, I have made this with the help of **NFC TAGS**. How it works is simple: wh
 
 ## Zine
 [zine](/doc/zine.pdf)
-![zine](/image/zine)
+![zine](/image/zine.png)
 ## Photos of Car and Remote 📸
 
 ### Car Pics
