@@ -156,4 +156,4 @@ This all works with ESP-NOW protocol. The host's car maintains the rules and eve
 * challenge etc
 
 Thats it for now.
-> **NOTE:** you need to place a black transparent plastic thin sheet or something on the front window where the camera is placed and in the remote for the switch you can either use this ![pcb](/image/image.png) or you can custom print a pcb board everything on car and remote is either snap fit or screwable and only the led , ir and batter need glue-gun/tap
+> **NOTE:** you need to place a black transparent plastic thin sheet or something on the front window where the camera is placed and in the remote for the switch you can either use this Prototyping PCB or you can custom print a pcb board everything on car and remote is either snap fit or screwable and only the led , ir and batter need glue-gun/tap
