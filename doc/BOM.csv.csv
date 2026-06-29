@@ -11,8 +11,8 @@ Car,LM2596 DC-DC Buck Converter,1,79,https://robocraze.com/products/lm2596-dc-dc
 Car,SG90 Micro Servo Motor,1,99,https://robocraze.com/products/sg90-micro-servo-motor
 Car,DRV8833 Motor Driver,1,99,https://robocraze.com/products/drv8833-2-channel-dc-motor-driver
 Car,TSOP38238 IR Receiver Diode,2,50,https://quartzcomponents.com/products/tsop38238-ir-receiver-diode-38khz
-Car,M3x4mm Heat Set Inserts,8,50,
-Car,M3x6mm Screws,8,50,
+Car,M3x4mm Heat Set Inserts,20,50,
+Car,M3x6mm Screws,20,50,
 Remote,ESP32 WiFi Bluetooth,1,299,https://amzn.in/d/03HUoLg3
 Remote,Tactile Momentary Push Button,12,36,https://amzn.in/d/093r9Vyk
 Remote,3.7V 1500mAh LiPo Battery,1,350,https://robocraze.com/products/3-7v-1500mah-lipo-rechargeable-battery-model-uk-523450p?_pos=1&_sid=d113ab62b&_ss=r
@@ -20,8 +20,8 @@ Remote,TP4056 Battery Charger,1,49,https://robocraze.com/products/tp4056-battery
 Remote,3.3V Small Piezo Buzzer,1,30,https://robocraze.com/products/3-volts-buzzer-small
 Remote,5mm Common Anode RGB LED,1,15,https://robocraze.com/products/5mm-common-anode-rgb-led-4pin-pack-of-10
 Remote,2.8 Inch TFT LCD Display,1,780,https://robocraze.com/products/smartelex-2-8-inch-tft-lcd-display-240x320-color-lcd-screen-for-diy-electronics
-Remote,M3x4mm Heat Set Inserts,5,30,
-Remote,M3x6mm Screws,5,30,
+Remote,M3x4mm Heat Set Inserts,12,30,
+Remote,M3x6mm Screws,12,30,
 SUMMARY,Car Total,,3963,
 SUMMARY,Remote Total,,1619,
 SUMMARY,Grand Total,,5582,
