@@ -46,8 +46,34 @@ I have always wondered to play **RC car** like in games with boost, power, win, 
 ### Car Assembly
 
 After 3D printing, check the tolerance of each part and sand it smoothly for better look and placement. Then solder everything with wires, place each component in its designated position as shown in the `.step` files, glue the IR receiver and transmitter, tape or glue the batteries in their places, place ESP32 on the ESP tray and screw it well, then mount to the car body as shown.
+## Car Assembly
+
+1. 3D print all STL files from `/cad/car`.
+2. Sand the parts until they fit smoothly.
+3. Insert all M3 heat inserts
+4. Mount the N20 motor using two M3 screws.
+5. Install the steering servo.
+6. Mount the ESP32.
+7. Install the PN532 NFC module.
+8. Connect all electronics according to wiring diagram.
+9. Mount FPV cam.
+10. Install battery
+11. scraw body
 
 ### Remote Assembly
+## Car Assembly
+
+1. 3D print all STL files from `/cad/remote`.
+2. Sand the parts until they fit smoothly.
+3. Insert all M3 heat inserts.
+4. place the batter.
+5. Mound the ESP32.
+6. Mount PCB after soldering all switchs and LED.
+7. Insert the button.
+8. Connect all electronics according to wiring diagram.
+9. Slide in the sreen and screw.
+10. Slide the bottom case.
+11. Close body.
 
 After 3D printing, check the tolerance of each part and sand it smoothly for better look and placement. Then solder everything with wires, place the battery first followed by ESP32, solder the switch to PCB and connect the GPIOs Don't forget to place the LCD screen holders to screw for better holding, slide down the bottom part and screw it also then paint everything.
 
@@ -90,6 +116,29 @@ This all works with ESP-NOW protocol. The host's car maintains the rules and eve
 - `camera → WiFi web → phone, laptop...` - Video stream to viewer devices
 
 ## Folder Structure 📁
+```
+cad/
+
+├── car/
+│   └── car.step
+
+├── remote/
+│   └── Remote.step
+
+├── nfc/
+│   └── nfc tag sticker.step
+
+firmware/
+
+├── car/
+│   └── Car firmware
+
+├── remote/
+│   └── Remote firmware
+
+├── camera/
+│   └── FPV camera firmware
+```
 
 ### Car Section
 - [Car CAD](/cad/car/) - 3D models and designs  
